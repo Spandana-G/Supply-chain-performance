@@ -3,8 +3,8 @@ Sustainable supply chain performance focuses on balancing economic, environmenta
 # Sustainable Supply Chain Performance Dashboard
 This project presents a Power BI dashboard that provides insights into supply chain performance with a focus on sustainability, costs, production, and transportation efficiency. The dashboard visualizes key performance indicators (KPIs) to help organizations optimize logistics, reduce waste, and improve decision-making.
 # Objectives of the Project
-Optimize Logistics – Reduce shipping costs, improve route planning, and enhance transportation efficiency.
-Improve Production – Monitor supplier performance and streamline manufacturing lead times.
-Enhance Sales & Inventory – Track product sales, stock levels, and revenue trends.
-Ensure Quality – Reduce defect rates and improve inspection processes.
-Enable Data-Driven Decisions – Provide interactive insights for better supply chain management.
+1.Optimize Logistics – Reduce shipping costs, improve route planning, and enhance transportation efficiency.
+2.Improve Production – Monitor supplier performance and streamline manufacturing lead times.
+3.Enhance Sales & Inventory – Track product sales, stock levels, and revenue trends.
+4.Ensure Quality – Reduce defect rates and improve inspection processes.
+5.Enable Data-Driven Decisions – Provide interactive insights for better supply chain management.
