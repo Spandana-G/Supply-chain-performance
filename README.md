@@ -11,3 +11,13 @@ This project presents a Power BI dashboard that provides insights into supply ch
 
 # Dataset used
 - <a href="https://github.com/Spandana-G/Week-1/blob/main/Sustainable%20Supply%20Chain%20Performance.csv">Dataset</a>
+# Process
+### **Process Overview**  
+
+1️.Gather, clean, and structure supply chain data.                                                           
+2.Create relationships, measures, and calculations for insights.                                            
+3.Build interactive visuals (charts, maps, slicers) for analysis.                                                       
+4. Ensure smooth performance and validate data accuracy.                                                  
+5.Publish, automate refresh, and plan improvements.                                                        
+
+
