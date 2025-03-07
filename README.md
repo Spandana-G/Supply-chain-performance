@@ -8,3 +8,6 @@ This project presents a Power BI dashboard that provides insights into supply ch
 3.Enhance Sales & Inventory – Track product sales, stock levels, and revenue trends.                                         
 4.Ensure Quality – Reduce defect rates and improve inspection processes.                                            
 5.Enable Data-Driven Decisions – Provide interactive insights for better supply chain management.
+
+# Dataset used
+- <a href="https://github.com/Spandana-G/Week-1/blob/main/Sustainable%20Supply%20Chain%20Performance.csv">Dataset</a>
