@@ -20,7 +20,7 @@ This project presents a Power BI dashboard that provides insights into supply ch
 # Dashboard 
 ![Screenshot 2025-03-07 205654](https://github.com/user-attachments/assets/1c9cf4de-9af9-41f4-8ec6-6f3b990c6bf4)
 ![Screenshot 2025-03-07 205717](https://github.com/user-attachments/assets/30dcadd9-f149-4d35-80b5-2b19c99713f9)
-![Uploading Screenshot 2025-03-07 205745.png…]()
+
 
 
 
